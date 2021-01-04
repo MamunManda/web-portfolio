@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.amiclass1{
+    color: chocolate;
+    font-weight: 200px;
+}
+.headclass {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.headclass img{
+    width: 100%;
+}
